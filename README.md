@@ -48,5 +48,5 @@ Aqui mostraremos un formulario donde el paciente pueda ingresar su nombre, e-mai
 Usaremos algun servicio gratuito para realizar las pruebas.
 
 
-
+Tambien crearemos un modulo d wathsapp para conectar directamnte a un numero.
 
