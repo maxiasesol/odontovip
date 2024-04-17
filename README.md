@@ -2,17 +2,35 @@ Proyecto OdontoVip
 
 Sera una landingpage destinada a mostrar los servicios de un consultorio odontologico.
 
-Informacion de consultorio :
+
+
+
 Tendra 6 secciones. 
 -Inicio
-Mostrara una imagen ilustrativa del consultorio y algunos titulos como nombre del doctor, etc.
+Mostrara una imagen ilustrativa del consultorio y la siguiente informacion.
+
+"Bienvenidos a Odonto Vip
+Contamos con una sólida formación profesional al servicio de sus pacientes.
+Afrontamos amplia gama de problemas dentales, tanto en niños como en adultos de manera personalizada y con responsabilidad. Brindamos toda la información necesaria sobre los distintos procedimientos a seguir.
+Otorgamos servicios de calidad en un ambiente confortable donde usted encontrará eficiencia y compromiso.
+•Odontología general 
+•Ortodoncia 
+•Prótesis 
+• Implantes 
+• Odontopediatria 
+Y más"
+
+
+
+
 
 -Servicio:
-Mostrara Los servicios qu eofrece el lugar •diagnóstico• Restauraciones• Exodoncias• Limpiezas, Etc.
-Odontopediatría (Infantil)
-Endodoncias
-•Tratamientos de Conductos : Incisivos, Caninos, Premolares y Molares.
-Ortodoncia
+Mostrara Los servicios que ofrece el lugar 
+
+Diagnóstico 
+Restauraciones
+Exodoncias
+Limpiezas
 
 -como llegar: 
 mostrar direcion y mapa del lugar.
@@ -30,5 +48,5 @@ Aqui mostraremos un formulario donde el paciente pueda ingresar su nombre, e-mai
 Usaremos algun servicio gratuito para realizar las pruebas.
 
 
+Tambien crearemos un modulo d wathsapp para conectar directamnte a un numero.
 
-Crearemos un modulo de w
