@@ -71,6 +71,13 @@ iframe {
 
 }
 
+
+#ubicacion{
+    width: 100%;
+    height: auto;
+}
+
+
 .contenedor {
     height: 100vh;
     display: flex;
@@ -106,6 +113,18 @@ article {
 .dos {
     background-image: url(./img/diagnostico.webp);
 }
+
+.tres {
+    background-image: url(./img/Restauraciones.jpg);
+}
+
+
+.cuatro {
+    background-image: url(./img/limpieza.jpg);
+}
+
+
+
 
 
 
