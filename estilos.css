@@ -1,9 +1,3 @@
-/*
-***************************************
-
-***************************************
-*/
-
 * {
     padding: 0;
     margin: 0;
@@ -58,16 +52,93 @@ iframe {
     width: 7%;
 }
 
-<<<<<<< HEAD
-/*
-***************************************
-login
-***************************************
-*/
-=======
 .redes {
+<<<<<<< HEAD
 background-image: url(./img/Fondo\ redes\ sociales.jpg);
 background-repeat: no-repeat;
 height: 900px;
 }   
 >>>>>>> 70161a9d73a351fb7409adc9fa7d3a4e85f89927
+=======
+    background-image: url(./img/Fondo\ redes\ sociales.jpg);
+    background-repeat: no-repeat;
+    height: 900px;
+}
+
+
+
+
+#servicios {
+    width: 100%;
+    height: 100vh;
+    padding:5%;
+
+
+}
+
+.contenedor {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+article {
+    background: linear-gradient(110deg, rgba(17, 251, 255, 0.589) 0%, rgba(0, 51, 171, 0.555) 100%);
+    width: 20rem;
+    height: 30rem;
+    margin-left: 1rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.image {
+    width: 100%;
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.uno {
+    background-image: url(./img/exodoncias.jpg);
+}
+
+.dos {
+    background-image: url(./img/diagnostico.webp);
+}
+
+
+
+@media (max-width:700px) {
+
+
+    h1 {
+        top: 40%;
+        left:5%;
+    }
+
+
+    h2 {
+        font-size: 15px;
+        top: 48%;
+        left:5%;
+    }
+
+
+    .contenedor{
+        display: block;
+    }
+
+    article{
+        margin: 1rem 0 1rem 0 ;
+    }
+
+
+
+}
+>>>>>>> parent of eefce32 (nuevos estiloss)
