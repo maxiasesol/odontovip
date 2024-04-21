@@ -24,14 +24,14 @@ section {
 
 h1 {
     position: absolute;
-    top: 70%;
+    top: 60%;
     left: 30%;
 
 }
 
 h2 {
     position: absolute;
-    top: 81%;
+    top: 71%;
     left: 35%;
 
 }
@@ -87,7 +87,7 @@ iframe {
 }
 
 article {
-    background: linear-gradient(110deg, rgba(17, 251, 255, 0.589) 0%, rgba(0, 51, 171, 0.555) 100%);
+    background: linear-gradient(110deg, rgba(2, 112, 114, 0.589) 0%, rgba(0, 51, 171, 0.555) 100%);
     width: 20rem;
     height: 30rem;
     margin-left: 1rem;
@@ -152,6 +152,9 @@ article {
         margin: 1rem 0 1rem 0;
     }
 
+    section{
+        height: auto;
+    }
 
 
 }
